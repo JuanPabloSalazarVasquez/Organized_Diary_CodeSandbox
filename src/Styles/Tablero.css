@@ -1,0 +1,28 @@
+.basura1 {
+  margin-left: 30px;
+  height: 50px;
+}
+
+.basura2 {
+  margin-left: 30px;
+  height: 50px;
+}
+
+.btn_añadir {
+  margin-left: 0px;
+  height: 50px;
+}
+
+.item {
+  display: flex;
+  margin-left: 100px;
+  margin-top: 10px;
+  background-color: blue;
+}
+
+.Tablero .fondo {
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: blue;
+  border-radius: 20px;
+}

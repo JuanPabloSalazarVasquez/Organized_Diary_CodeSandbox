@@ -1,0 +1,62 @@
+.Ingresar_tarea {
+  padding: 50px;
+}
+
+.Ingresar_tarea h1 {
+  margin-right: 250px;
+}
+
+.Ingresar_tarea h4 {
+  margin-right: 300px;
+  margin-top: 59px;
+  color: rgb(255, 245, 245);
+}
+
+.Ingresar_tarea h5 {
+  margin-right: 250px;
+}
+
+.Desc {
+  margin-top: 50px;
+  margin-right: 250px;
+  color: rgb(255, 245, 245);
+}
+
+.text {
+  height: 100px;
+  width: 100;
+  border-radius: 15px;
+  background-color: rgba(212, 186, 186, 0.61);
+}
+
+.Ingresar_tarea .Botones {
+  display: flex;
+}
+
+.Botones1 {
+  display: inline-block;
+
+  width: 30%;
+}
+.Boton1 {
+  height: 30px;
+  margin-top: 20px;
+}
+.Boton2 {
+  height: 30px;
+  margin-top: 20px;
+}
+
+.Boton3 {
+  height: 30px;
+  margin-left: 200px;
+  margin-top: 20px;
+  display: inline-block;
+}
+
+.Rayita {
+  height: 2px;
+  width: 1;
+  border-radius: 15px;
+  background-color: rgba(212, 186, 186, 0.61);
+}
